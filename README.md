@@ -1,4 +1,4 @@
 # LearnerGit
-Author - Navneet Sharma
+Author - Navneet Ji Sharma
 <br>
 hehehhe
